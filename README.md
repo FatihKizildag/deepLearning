@@ -22,11 +22,6 @@ To run the project codes, follow these steps:
 2. Download the [dataset](https://drive.google.com/file/d/1vXbTtm-PlTQPO-zN443Ehr7EsYuIoer_/view?usp=share_link) and add it to your Google Drive.
 3. Copy the project files to your computer.
 4. Create a virtual environment in the project folder and install the necessary dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 5. Run the project codes via Jupyter Notebook or Python script.
 
 ### Project Structure
